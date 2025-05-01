@@ -24,7 +24,7 @@ CREATE TABLE users (
     password VARCHAR(255) NOT NULL
 );
 
-/// Table Databse Creation (Create a new table in the ("guest_accommodation") database called login_attempts.)
+/// Table Database Creation (Create a new table in the ("guest_accommodation") database called login_attempts.)
 
 CREATE TABLE login_attempts (
     id INT AUTO_INCREMENT PRIMARY KEY,
